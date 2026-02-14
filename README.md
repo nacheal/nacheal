@@ -1,4 +1,4 @@
-# Hi there, I'm Guoquan Mai (麦国权) 👋
+# Hi there, I'm Guoquan Mai 👋
 
 [![Email](https://img.shields.io/badge/Email-nacheal%40qq.com-red)](mailto:nacheal@qq.com)
 [![Experience](https://img.shields.io/badge/Experience-13%20Years-blue)](#)
