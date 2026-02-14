@@ -1,7 +1,6 @@
 # Hi there, I'm Guoquan Mai (麦国权) 👋
 
 [![Email](https://img.shields.io/badge/Email-nacheal%40qq.com-red)](mailto:nacheal@qq.com)
-[![Phone](https://img.shields.io/badge/Phone-189--2270--6142-green)](tel:18922706142)
 [![Experience](https://img.shields.io/badge/Experience-13%20Years-blue)](#)
 [![Location](https://img.shields.io/badge/Location-Shenzhen%2C%20China-orange)](#)
 
